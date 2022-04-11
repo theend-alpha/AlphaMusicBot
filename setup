@@ -1,5 +1,5 @@
 #!/bin/bash
-### Yukki Music Bot Installer
+### Alpha Music Bot Installer
 
 pprint (){
 	cred='\033[0;31m'
