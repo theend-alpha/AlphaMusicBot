@@ -16,10 +16,10 @@ from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
 from config import BANNED_USERS
-from YukkiMusic import LOGGER, app, userbot
-from YukkiMusic.core.call import Yukki
-from YukkiMusic.plugins import ALL_MODULES
-from YukkiMusic.utils.database import get_banned_users, get_gbanned
+from AlphaMusic import LOGGER, app, userbot
+from AlphaMusic.core.call import Alpha
+from AlphaMusic.plugins import ALL_MODULES
+from AlphaMusic.utils.database import get_banned_users, get_gbanned
 
 loop = asyncio.get_event_loop()
 
@@ -32,7 +32,7 @@ async def init():
         and not config.STRING4
         and not config.STRING5
     ):
-        LOGGER("YukkiMusic").error(
+        LOGGER("AlphaMusic").error(
             "No Assistant Clients Vars Defined!.. Exiting Process."
         )
         return
@@ -40,7 +40,7 @@ async def init():
         not config.SPOTIFY_CLIENT_ID
         and not config.SPOTIFY_CLIENT_SECRET
     ):
-        LOGGER("YukkiMusic").warning(
+        LOGGER("AlphaMusic").warning(
             "No Spotify Vars defined. Your bot won't be able to play spotify queries."
         )
     try:
