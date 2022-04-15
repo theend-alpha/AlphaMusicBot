@@ -57,8 +57,6 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 <h4>Click the button below to deploy Alpha on Heroku!</h4>    
 <a href="https://heroku.com/deploy/"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
-> Want detailed explanation of Heroku Deployment? [Click Here](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/heroku)
-
 ## 🏷 Support
 
 Reach out to the maintainer at one of the following places:
