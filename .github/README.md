@@ -31,7 +31,7 @@ For more information on the technologies that power the Yukki Music Bot, check o
 
 ### Before deploying Alpha Music Bot , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
 
-> If you want to start working with Yukki Music Bot you can either fork or import repo .
+> If you want to start working with Alpha Music Bot you can either fork or import repo .
 > If you'd like to talk to us, join us on our [Telegram Group](https://t.me/BTS_CHAT_ZONE)
 
 
