@@ -48,7 +48,7 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 
 ## 🖇 Generating Pyrogram String Session
 
-- Generate a Pyrogram String Session via [Replit](https://replit.com/@NotReallyShikhar/Yukki-Music-String-Gen)
+- Generate a Pyrogram String Session via [Replit](https://replit.com/@theend-alpha/Alpha-Music-String-Gen)
 
 - Generate a Pyrogram String Session via [Telegram String Generation Bot](https://t.me/EndStringBot)
 
